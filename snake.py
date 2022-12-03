@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 23 07:35:03 2021
-
-@author: JALAJ SINGH
-"""
-
-
 import pygame
 import random
 from pygame import font
